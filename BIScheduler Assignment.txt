@@ -1,0 +1,25 @@
+Project Abstract:
+
+BI Scheduler is an application which is used to schedule specific tasks to be run at pre-determined times. Tasks such as Deduplication, Trimming, Date formatting, Currency formatting are scheduled using back-end components by the admin. These tasks are required to clean the data being collected from different resources in order to generate accurate reports for business analysis.
+
+Create Spring boot project with following use cases and push it to github.
+
+1. Employee registration
+2. Employee login
+3. adding Jobdetails
+4. delete jobdetails
+5. update job details
+6. view all Employees
+7. view all jobs
+8. search job using jobname
+9. search Employee using id
+10. search Employee using name
+11. delete Employee using id
+12. update employee data
+
+ Complete all the use cases using following technologies:
+
+          Front end:   HTML,CSS,JSP
+          Backend  :   Spring boot, JPA, REST API
+          Server     :   Apache tomcat
+          Database :   Mysql
